@@ -14,7 +14,7 @@ Go to _Phone Master → Toolbox → Auto-start management → **Allow app to run
 
 ## Lock the app in the Recent apps
 
-Head to recent apps with the navigation bar or using gestures press the down arrow on the top of microg.
+Head to recent apps with t bar or using gestures press the down arrow on the top of microg.
 
 Press the first option with the 🔒 icon.
 
